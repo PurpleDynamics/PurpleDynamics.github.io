@@ -8,5 +8,15 @@
 		"titleColor": "#EBC833",
 		"imgUrl": "https://url.kr/1baf65",
 		"redirectUrl": "https://url.kr/mstdij"
+	},
+	{
+		"companyName": "TestViral",
+		"titleText": "이것은 test 광고입니다.! ✌ ",
+		"contentText": "test 광고  최대3줄까지 가능  회사소개를 해주세요.!",
+		"backgroundColor": "#262626",
+		"contentColor": "#FFFFFF",
+		"titleColor": "#E3E3E3",
+		"imgUrl": "https://url.kr/1baf65",
+		"redirectUrl": "https://url.kr/mstdij"
 	}
 ]
